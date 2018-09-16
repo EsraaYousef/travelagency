@@ -1,0 +1,437 @@
+@media (max-width: 1215px){
+	#offers .owl-prev{
+		right: -15px;
+	}
+	#offers .owl-next{
+		left: -15px;
+	}
+}
+
+@media(max-width: 1199px){
+	.bottom-header .logo img{
+        margin-top: 25px
+    }
+}
+@media (max-width: 1024px){
+	.top-header .logo img{
+		width: 100%;
+	}
+	.top-header .logo{
+		margin-top: 8px;
+	}
+    
+}
+@media (max-width: 992px) and (min-width: 768px){
+	.footer-top .list-unstyled{
+		min-height: 255px;
+	}
+	.navbar-default .navbar-nav > li > a {
+	  
+	    font-size: 13px;
+	    padding: 10px 15px;
+	}
+}
+@media (max-width: 992px){
+	.bottom-header .logo img{
+        margin-top: 33px
+    }
+	
+	.top-header .logo{
+		margin-top: 0px;
+	}
+	.features .parent h3{
+		font-size: 19px;
+	}
+
+	#background .write p{
+		font-size: 22px;
+	}
+	#background .btn-register{
+		width: 190;
+		font-size: 24px;
+	}
+	.mobile-app .container .overlay .right{
+		width: 80%;
+		right: 10%;
+	}
+	.mobile-app .container .overlay .left{
+		bottom: 20%;
+		left: 20%
+	}
+	footer .social .use-app{
+        padding-top: 0px;
+    }
+}
+
+
+@media (max-width: 800px){
+	.owl-nav{
+		display: none;
+	}
+
+}
+@media (max-width: 767px){
+	#background .write p{
+		font-size: 20px;
+	}
+	#background .btn-register{
+		width: 155;
+		font-size: 22px;
+	}
+	.features .col-sm-4{
+		margin-bottom: 60px;
+		text-align: center;
+	}
+	.introduction .advertise .ad-box h2{
+        font-size: 16px
+    }
+    .add-offer .add-box .add-new form .col-sm-9 .form-group{
+    margin-right: 15px;
+    }
+    .add-offer .add-box .add-new form .option{
+        text-align: center !important;
+    }
+    .search .search-box .tab-content .ckbox label:before{
+        width: 15px;
+        height: 15px;
+    }
+    .search .search-box .tab-content .ckbox label{
+        font-size: 13px
+    }
+    .search .search-box .tab-content .form-group label{
+        font-size: 13px
+    }
+    .search .search-box .tab-content .nice-select.wide{
+        font-size: 11px
+    }
+    .search .search-box .tab-content .custom-date{
+        font-size: 11px
+    }
+    .add-offer .add-box .add-new h1{
+        font-size: 20px
+    }
+    .add-offer .add-box h1:after{
+        width: 140px
+    }
+    .add-offer .add-box .add-new form label{
+        font-size: 12px
+    }
+    .add-offer .add-box .add-new form .custom-file{
+       margin-right: 15px;
+    }
+    .add-offer .add-box .add-new form .confirm-offer{
+        font-size: 16px;
+    }
+    .who-we .who-box h1{
+        font-size: 20px;
+    }
+    .who-we .who-box h1:after{
+        width: 100px;
+        top: 40px
+    }
+    .who-we .who-box .top{
+        font-size: 14px
+    }
+    .who-we .who-box .leader-box .leader-name , .who-we .who-box .leader-box  .leader-job{
+        font-size: 18px;
+        text-align: center;
+    }
+    .who-we .who-box .leader .about-leader{
+        font-size: 12px
+    }
+    .best-travel .box h2{
+        font-size: 20px
+    }
+    .details .details-box{
+        text-align: center;
+    }
+    .details .details-box .first .cost{
+        font-size: 14px;
+    }
+    .details .details-box .rules li{
+        font-size: 11px;
+        text-align: right;
+    }
+    .details .details-box button{
+        font-size: 16px;
+    }
+    .details .details-box .detail .st-clmn{
+        min-width: 190px;
+    }
+    .contact .contact-box h1{
+        font-size: 20px;
+    }
+    .contact .contact-box .right h5, .contact .contact-box .left h5{
+        font-size: 14px;
+    }
+    .contact .contact-box .right p, .contact .contact-box .left p{
+        font-size: 11px;
+    }
+    .contact .contact-box .questionaire .question .right{
+        padding-bottom: 0px;
+    }
+    .contact .contact-box .questionaire .question .left{
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    .contact .contact-box .questionaire .question input , .contact .contact-box .questionaire .question textarea{
+        font-size: 12px
+    }
+    .contact .contact-box .questionaire button{
+        font-size: 16px;
+    }
+	.footer-top{
+		text-align: center;
+	}
+}
+@media(max-width: 598px){
+    .search .search-box .nav-tabs li{
+    width: 50%;
+    text-align: center;
+    }
+}
+@media(max-width: 328px){
+    .search .search-box .nav-tabs li{
+        height: 64px
+    }
+}
+
+@media (max-width: 767px) and (min-width: 481px){
+	.bottom-header .logo img{
+		width: 90%;
+		margin: auto;
+		margin-top: 0px;
+	}
+	
+	.navbar-default .navbar-toggle {
+	    border-color: #00c0b3;
+	    background-color: #00c0b3;
+	    /* width: 180px; */
+	    height: 57px;
+	    width: 90%;
+	    margin: auto;
+	    left: 5%;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+	    background-color: #fff;
+	    position: relative;
+	    top: 12px;
+	    right: 28%
+	}
+
+	.bottom-header .navbar-header button .toggle-text{
+		color: #fff;
+	    left: -11px;
+	    position: relative;
+	    bottom: 7px;
+	}
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	    border-color: #00c0b3;
+	    width: 90%;
+	    margin: 5px auto;
+
+	}
+	.navbar-default .navbar-nav > li > a{
+		padding: 15px 0;
+	}
+}
+
+
+@media (max-width: 723px){
+	.mobile-app .container .overlay .right h1{
+		font-size: 30px;
+		line-height: 2;
+	}
+	.mobile-app .container .overlay .left{
+		bottom: 20%
+	}
+}
+
+
+@media (max-width: 600px){
+	#background .write p{
+		font-size: 12px;
+	}
+	#background .btn-register{
+		width: 135;
+		font-size: 17px;
+		margin-top: 5px;
+		height: 40px;
+	}
+	.famous-tours .tours .trip .overlay span,.famous-tours .tours .trip .overlay .date{
+		display: block;
+		margin-top: 15px;
+	}
+	.footer-top .list-unstyled{
+		margin-bottom: 20px
+	}
+	.footer-top ul li {
+    	padding-top: 10px;
+    	padding-bottom: 0px
+	}
+	.footer-top .title{
+		margin-bottom: 0;
+	}
+	#custom-email-input {
+		margin-bottom: 0px;
+	}
+	.footer-top .social{
+		margin-top: 20px;
+	}
+	footer .social .use-app {
+	    padding-top: 10px;
+	}
+
+}
+
+@media (max-width: 660px){
+	.mobile-app .container .overlay .left{
+		left: 20%
+	}
+}
+
+
+@media (max-width: 510px){
+	.mobile-app .container .overlay .right h1{
+		font-size: 22px
+	}
+	.mobile-app .container .overlay .left{
+		left: 14%
+	}
+}
+
+
+@media (max-width: 497px){
+	.famous-tours .tours .trip .overlay{
+		width: 100%;
+		text-align: center;
+		border-radius: 20px;
+	}
+	.famous-tours .tours .trip .overlay h2{
+		font-size: 24px;
+		margin-bottom: 10px;
+	}
+	.famous-tours .tours .trip .overlay p{
+		font-size: 19px;
+		padding-top: 15px
+	}
+	
+}
+@media (max-width: 480px){
+	.top-header li a{
+		font-size: 12px
+	}
+	.navbar-header{
+        background-color: #00c0b3;
+        text-align: center;
+    }
+    
+    .navbar-toggle{
+        float: none;
+    }
+    .top-header .logo img{
+    	display: table;
+    	margin: auto;
+    	margin-bottom: 50px;
+    }
+    .navbar-default .navbar-toggle{
+    	border: none;
+    }
+    
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #fff;
+	    position: relative;
+	    top: 13px;
+    }
+    
+    .navbar-default .navbar-nav > li > a{
+       font-size: 17px;
+	    padding: 30px 19px 25px 18px;
+	    text-align: center;
+    }
+    
+    .top-footer{
+    	text-align: center;
+    }
+}
+
+
+@media (max-width: 410px){
+	.mobile-app .container .overlay .load{
+		display: none;
+	}
+	.mobile-app .container .overlay .load-min{
+		opacity: 1;
+		display: block;
+	}
+	.mobile-app .container .overlay .left{
+		left: 18%
+	}
+	.best-offers h1{
+		font-size: 18px
+	}
+	.famous-tours h1{
+		font-size: 18px
+	}
+}
+
+@media (max-width: 365px){
+	.mobile-app .container .overlay .right h1{
+		font-size: 20px
+	}
+}
+
+
+
+@media (max-width: 360px){
+	.top-header li {
+		padding-left: 15px
+	}
+	.top-header li a{
+		font-size: 11px
+	}
+}
+
+
+@media (max-width: 350px){
+	#offers .item .overlay{
+		text-align: right;
+		padding: 10px
+	}
+	#offers .item .overlay p{
+		font-size: 12px;
+		text-align: right;
+	}
+	#offers .item .overlay .fa-heart{
+	padding: 0px 
+	}
+}
+
+@media (max-width: 330px){
+    .mobile-app .container .overlay .left{
+        left: 20px;
+    }
+    .mobile-app .container .overlay .right h1{
+        font-size: 18px
+    }
+}
+
+
+@media (max-width: 307px){
+	#offers .item img{
+    border-radius: 0px;
+	}
+	#offers .item .overlay{
+		border-radius: 0px
+	}
+}
+
+
+@media (max-width: 298px){
+	.top-header li {
+		padding-left: 10px
+	}
+	.top-header li a{
+		font-size: 10px
+	}
+}
